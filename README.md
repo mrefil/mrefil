@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrefil
-- 👀 I’m interested in Ruby, C/C++/C#, ReactJs, NextJs, React Native
-- 🌱 I’m currently learning C/C++/C#
-- 💞️ I’m looking to collaborate on Ruby on Rails, C/C++/C#
+- 👀 I’m interested in Ruby on Rails, C/C++/C#, ReactJs, NextJs, React Native
+- 🌱 I’m currently learning Ruby on Rails, C/C++/C#, ReactJs, NextJs, React Native
+- 💞️ I’m looking to collaborate on Ruby on Rails, C/C++/C#, ReactJs, NextJs, React Native
 - 📫 How to reach me I will tell you later )
 
 <!---
