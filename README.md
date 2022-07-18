@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrefil
+- 👋 Hi, I’m @mrefil. I'm open for long term job.
 - 👀 I’m interested in Ruby on Rails, ReactJs, NextJs, React Native
 - 🌱 I’m currently learning Ruby on Rails, ReactJs, NextJs, React Native
 - 💞️ I’m looking to collaborate on Ruby on Rails, ReactJs, NextJs, React Native
